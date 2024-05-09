@@ -1,0 +1,16 @@
+.card {
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+  .card-header {
+    background-color: #4CAF50; /* Green header color */
+    color: #fff;
+    padding: 10px 15px;
+  }
+  
+  .card-body {
+    padding: 15px;
+  }
+  
